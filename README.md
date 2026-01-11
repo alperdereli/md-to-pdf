@@ -4,7 +4,7 @@ A simple, lightweight, and offline-capable web application that converts Markdow
 
 🔗 **Repository:** [https://github.com/alperdereli/md-to-pdf](https://github.com/alperdereli/md-to-pdf)
 
-![Markdown to PDF Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Placeholder)
+![Markdown to PDF Screenshot](screenshot.png)
 
 ## 🚀 Features
 
